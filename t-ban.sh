@@ -6,7 +6,7 @@ red='[1;31m'
 yellow='[1;33m'
 echo -e $lightgreen "[1m                Security Help For Ethical Hackers... "
 echo " "
-echo -e $yellow "[1m                         -Sutariya Parixit "
+echo -e $yellow "[1m                         -Hacker 69 "
 echo " "
 echo " "
 echo " "
@@ -28,4 +28,4 @@ echo "clear" > cl34r.txt
 cat "cl34r.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "C0w54y.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 ls
-cat "84nn3r.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
+cat "84nn3r.txt" >> /data/data/com.termux/files/usr/etc/bash.bashr
