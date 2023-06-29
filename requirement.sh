@@ -12,4 +12,4 @@ figlet -f big Done !!! | lolcat
 echo
 echo -e "[1m Now Run bash t-ban.sh...!!!"
 echo
-echo -e "[1m[32m Developed by :[33m Sutariya Parixit (8h4i)"
+echo -e "[1m[32m Developed by :[33m Hacker 69 (8h4i)"
